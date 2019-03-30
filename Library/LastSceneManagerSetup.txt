@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/KOLEJNA1.unity
+  isLoaded: 1
+  isActive: 1
